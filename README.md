@@ -100,4 +100,6 @@
 
 2. Collaborate with a computer program to produce a text. The terms of the collaboration are up to you: you can curate the output of a generator, algorithmically process your own writing, use predictive text or another method of your  Print out the text or an excerpt form it (250-word max) and bring to next class. Be prepared to read it out loud. 
 
+3. Bring in some sound files (preferably mp3) to work with next week as we create language+sound instruments. Instrumental music and sound effects / samples generally work well.
+
 
