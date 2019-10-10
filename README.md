@@ -1,5 +1,3 @@
-# SFPC-Code-Poetry-F19
-
 ## Day 1 (10/10): Generative Text and Intro to the Web
 
 ### Works
@@ -57,6 +55,7 @@
 -   [Tracery Editor](https://beaugunderson.com/tracery-writer/)
 -   [Interactive Tracery Tutorial](http://www.crystalcodepalace.com/traceryTut.html)
 -   [Tracery Template on Glitch](https://glitch.com/edit/#!/tracery-template)
+
 **Markov**
 -   [Online Word Markov](http://projects.haykranen.nl/markov/demo/)
 -   [Online Character Markov](http://www.eddeaddad.net/charNG/)
