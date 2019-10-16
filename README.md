@@ -102,6 +102,7 @@
 
 3. Bring in some sound files (preferably mp3) to work with next week as we create language+sound instruments. Instrumental music and sound effects / samples generally work well.
 
+-------
 
 ## Day 2 (10/17) Text, Sound and Interactivity
 
