@@ -109,13 +109,13 @@ We will start class with a reading of some of our prepared texts and a look at s
 
 ### Works
 
-** Young Hae-Chang Heavy Industries **
+**Young Hae-Chang Heavy Industries**
 -   [Main Website](http://yhchang.com/)
 -   [DAK0TA](http://yhchang.com/DAKOTA_V.html)
 -   [Samsung Means to Come](https://yhchang.com/SAMSUNG_MEANS_TO_COME_V.html)
 -   [Smash the Gang of Four Billion](http://yhchang.com/SMASH_THE_GANG_OF_FOUR_BILLION_V.html)
 
-** Website Instruments **
+**Website Instruments**
 -   [Patatap](http://www.patatap.com/)
 -   [Typatone](https://typatone.com/)
 -   [Hacker Typer](http://hackertyper.com/)
@@ -125,7 +125,7 @@ We will start class with a reading of some of our prepared texts and a look at s
 -   [GifRapBot](https://toddwords.com/gifRapBot/)
 -   [Pixelsynth](https://ojack.github.io/PIXELSYNTH/)
 
-** Poetry Instruments by Todd **
+**Poetry Instruments by Todd**
 - [James Brown Gives Me a Poetry Solo, and I Realize That This Is 'My Moment'](http://hotwriting.net/jamesbrown/) 
 - [Yardley PA, 1997](http://hotwriting.net/inthedark/)
 - [Judy Goldeneyes](http://hotwriting.net/judy/)
